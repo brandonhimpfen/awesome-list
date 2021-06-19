@@ -2,7 +2,7 @@
 
 > A curated list of resources for
 
-[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://clicksrv.net/3L) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://clicksrv.net/3M)
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://clicksrv.net/d-)
 
 ## Contents
 
